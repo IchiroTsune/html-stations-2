@@ -23,6 +23,8 @@
     "pre-commit": "yarn hook:pre-commit"
   },
   "dependencies": {
-    "cypress-real-events": "^1.7.0"
+    "cypress-real-events": "^1.7.0",
+    "http": "^0.0.1-security",
+    "http-server": "^14.1.1"
   }
 }
